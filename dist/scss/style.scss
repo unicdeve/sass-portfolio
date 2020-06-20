@@ -1,8 +1,10 @@
 @import './partials/config';
 @import './partials/home';
 @import './partials/about';
+@import './partials/contact';
 @import './partials/projects';
 @import './partials/menu';
+@import './partials/responsive';
 
 body {
 	background: $primary-color;
